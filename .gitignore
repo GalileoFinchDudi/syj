@@ -1,0 +1,23 @@
+# tesla-auto git ignore
+
+# dependencies
+tesla-auto/node_modules
+tesla-auto/.pnp
+tesla-auto/.pnp.js
+
+# testing
+tesla-auto/coverage
+
+# production
+tesla-auto/build
+
+# misc
+tesla-auto/.DS_Store
+tesla-auto/.env.local
+tesla-auto/.env.development.local
+tesla-auto/.env.test.local
+tesla-auto/.env.production.local
+
+tesla-auto/npm-debug.log*
+tesla-auto/yarn-debug.log*
+tesla-auto/yarn-error.log*
